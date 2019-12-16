@@ -1,9 +1,9 @@
 # Mobile-App-Analysis
-Eda and analysis of dataset google-play-store-apps from kaggle
+EDA and analysis of dataset google-play-store-apps from kaggle
 
-author: Xinrui(Cindy) Chen
+Author: Xinrui(Cindy) Chen
 
-This a final project report for course Data Science I.The dataset is obtained from Kaggle https://www.kaggle.com/lava18/google-play-store-apps. 
+This a final project report for course Data Science I.The report can be viewed [Here](https://www.kaggle.com/chenxinrui/eda-and-analysis)
 
 ## Abstract
 
